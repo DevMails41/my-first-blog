@@ -32,3 +32,6 @@ ehthumbs*.db
 
 # Pycharm
 .idea/
+
+# Other files/folders
+Forever PAT.txt
